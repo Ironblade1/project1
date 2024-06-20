@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+  color: red;
+  padding: 10px;
+  outline: auto;
+  background-color: aqua;
+  margin: 30px;
+}
